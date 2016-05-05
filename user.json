@@ -1,0 +1,166 @@
+{
+	"user": {
+		"approvedDriver": false,
+		"credits": [{
+			"id": "571daf310661bb504a8bXXXX",
+			"title": "50% off each ride Mon - Fri",
+			"label": "Mon - Fri",
+			"creditRestrictions": ["Maximum credit value: $15.00", "Good for 3 rides", "Valid 4\/25\/2016 to 5\/7\/2016", "Mon, 5:00am - Fri, 5:00pm"],
+			"description": "Restrictions apply",
+			"nextCouponAmount": 1500,
+			"maxAmountPerRide": 1500,
+			"shouldHideAmount": false,
+			"activationTimestamp": 1461567600,
+			"expirationTimestamp": 1462604400,
+			"timeWindows": [{}, {}, {}, {}, {}],
+			"validPioneer": false,
+			"promoBannerOverride": "Weekday rides 50% off!",
+			"remainingAmount": 4500,
+			"freeRideCoupon": true,
+			"enterpriseCredit": false,
+			"betaOnly": false,
+			"discountPercentage": 50,
+			"percentCoupon": true
+		}],
+		"email": "some.user@gmail.com",
+		"firstName": "Some",
+		"id": "85466919251707XXXX",
+		"lyftId": "85466919251707XXXX",
+		"isAmbassador": false,
+		"joinDate": "APRIL 2016",
+		"lastName": "User",
+		"lastRide": false,
+		"lyftToken": "XXXXXXXXXXU0NjY5MTkyNTE3MDc4NDEwLCJ0cyI6IjIwMTYtMDQtMjIgMDM6NTI6NTkiLCJ0diI6MSwicyI6ImQxZGQzMmFlZGNkZDIwZmM5YzJlYTg5NWNiNzU2OGQwYTY2NTQ0MGQyYTU2MmVmNjRhNTY4YzIwZTNlNGY5MGIifQ==",
+		"pollingRate": 5000,
+		"pollingRateInSeconds": 5,
+		"redirectToDriverApplication": false,
+		"referralCode": "USER564420",
+		"referralUrl": "https:\/\/lyft.com\/i\/USER564420",
+		"region": "SFO",
+		"requiresBillingAddress": false,
+		"requiresCreditCardCapture": false,
+		"revision": 43,
+		"ridesTaken": 4,
+		"userPhoto": "https:\/\/graph.facebook.com\/v2.2\/22256803582420222\/picture?width=1200",
+		"termsAccepted": true,
+		"permissions": {
+			"canShowMutualFriends": true
+		},
+		"hasBusinessProfile": true,
+		"passengerPhotoUploadEnabled": true,
+		"mode": "passenger",
+		"phone": {
+			"number": "+15555551212",
+			"verificationNeeded": false
+		},
+		"verifyFields": ["phone", "ccZip"],
+		"creditcards": [{
+			"lastFour": "2222",
+			"type": "American Express",
+			"id": "card_XXXXLx0EjlXXXX",
+			"default": true,
+			"label": "",
+			"labelType": "",
+			"source": "user"
+		}, {
+			"lastFour": "2222",
+			"type": "American Express",
+			"id": "card_XXXXLx0EjlXXXX",
+			"default": false,
+			"label": "",
+			"labelType": "",
+			"source": "user"
+		}],
+		"chargeaccounts": [{
+			"id": "chargeAccount_stripe_card_user_85466919251707XXXX_y7z3wig9bjZAXXXX",
+			"cardId": "card_XXXXV9TTCDXXXX",
+			"default": false,
+			"defaultBusiness": false,
+			"label": "",
+			"labelType": "",
+			"lastFour": "2222",
+			"brand": "American Express",
+			"last_four": "2222",
+			"source": "user",
+			"type": "American Express",
+			"method": "card",
+			"provider": "stripe",
+			"clientPaymentMethod": "card",
+			"customerId": "cus_8JYU7bNVesXXXX",
+			"fingerprint": "y7z3wig9bjZAXXXX",
+			"billingType": "credit"
+		}, {
+			"id": "chargeAccount_stripe_card_user_85466919251707XXXX_J1tOKi1QO0DXXXXX",
+			"cardId": "card_8JYULx0Ejl23oW",
+			"default": true,
+			"defaultBusiness": true,
+			"label": "",
+			"labelType": "",
+			"lastFour": "2222",
+			"brand": "American Express",
+			"last_four": "2222",
+			"source": "user",
+			"type": "American Express",
+			"method": "card",
+			"provider": "stripe",
+			"clientPaymentMethod": "card",
+			"customerId": "cus_8JYU7bNVesXXXX",
+			"fingerprint": "J1tOKi1QO0DXXXXX",
+			"billingType": "credit"
+		}],
+		"facebookUid": "22256803582420222",
+		"pusherChannel": "private-instant-production-85466919251707XXXX",
+		"applePushToken": "XXXXXX"
+	},
+	"banners": [{
+		"rideType": "lyft_carpool",
+		"bannerItem": {
+			"text": "Drive to work? Get paid to Carpool \u279e",
+			"deeplink": "lyft:\/\/carpooldriveronboarding"
+		}
+	}, {
+		"rideType": "default",
+		"bannerItem": {
+			"text": "Weekday rides 50% off!",
+			"deeplink": "lyft:\/\/payment"
+		}
+	}, {
+		"rideType": "standard",
+		"bannerItem": {
+			"text": "Weekday rides 50% off!",
+			"deeplink": "lyft:\/\/payment"
+		}
+	}, {
+		"rideType": "plus",
+		"bannerItem": {
+			"text": "Weekday rides 50% off!",
+			"deeplink": "lyft:\/\/payment"
+		}
+	}, {
+		"rideType": "lyft",
+		"bannerItem": {
+			"text": "Weekday rides 50% off!",
+			"deeplink": "lyft:\/\/payment"
+		}
+	}, {
+		"rideType": "lyft_plus",
+		"bannerItem": {
+			"text": "Weekday rides 50% off!",
+			"deeplink": "lyft:\/\/payment"
+		}
+	}, {
+		"rideType": "courier",
+		"bannerItem": {
+			"text": "Weekday rides 50% off!",
+			"deeplink": "lyft:\/\/payment"
+		}
+	}, {
+		"rideType": "lyft_line",
+		"bannerItem": {
+			"text": "Weekday rides 50% off!",
+			"deeplink": "lyft:\/\/payment"
+		}
+	}],
+	"generatedAt": "2016-05-03T06:07:55Z",
+	"timestamp": 1462255675976
+}
