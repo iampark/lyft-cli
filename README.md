@@ -3,6 +3,8 @@ lyft-cli
 
 Simple implementation of a CLI against the Lyft API that implements OAuth2 and allows for URL-based calls.
 
+<img src="screenshot.png" style="width: 70%;"/>
+
 To run this sample code, you'll need to install the following python libraries:
 
 - Sanction, modified: [https://github.com/iampark/sanction](https://github.com/iampark/sanction)
